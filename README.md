@@ -21,7 +21,7 @@ This project is a basic home page clone of Amazon.com, created as a part of my C
 
 ScreenShot 👇
 
-[image](./Demo%20pic.jpg)
+![image](./Demo%20pic.jpg)
 
 ## Usage
 
